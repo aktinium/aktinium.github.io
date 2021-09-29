@@ -9,3 +9,5 @@ Ini adalah postingan untuk mengetes instalasi Jekyll di localhost
 Ini sudah diedit di digital-garden
 
 ditambahkan setelah credential store diganti
+
+Yang tersisa hanyalah au~~~
