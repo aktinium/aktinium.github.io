@@ -11,3 +11,5 @@ Ini sudah diedit di digital-garden
 ditambahkan setelah credential store diganti
 
 Yang tersisa hanyalah au~~~
+
+belum tersimpan huhuhuhu
