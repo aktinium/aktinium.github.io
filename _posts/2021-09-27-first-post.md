@@ -6,4 +6,4 @@ categories: testing
 ---
 Ini adalah postingan untuk mengetes instalasi Jekyll di localhost
 
-Ini contoh editan hehehehe
+Ini sudah diedit di digital-garden
